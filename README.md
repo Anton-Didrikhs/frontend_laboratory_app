@@ -6,10 +6,10 @@ Link do aplikacji hostowanej na Firebase: https://frontendlaboratoryapp-e4d02.we
 ##Contents##
 Nagłówek zawiera przyciski rejestracji i logowania.
 Menu boczne zawiera:
->Link do strony głównej
->Link do konta „Account”
->Link do listy quizów „Quizzes”
->Link do strony wylogowania
+1.Link do strony głównej
+2.Link do konta „Account”
+3.Link do listy quizów „Quizzes”
+4.Link do strony wylogowania
 
 Obsługuje 4 typy pytań: jednokrotnego wyboru, wielokrotnego wyboru, listy i dopasowywania par.
 Strona listy quizów zawiera linki do stron tworzenia i edycji quizów.
